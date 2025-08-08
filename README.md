@@ -104,7 +104,7 @@ vem das
       <h2>CPF/CNPJ Checker - R$5</h2>
       <p>Antes de acessar, faça o pagamento via PIX:</p>
       <div id="pixInfo2" onclick="mostrarLink('produto2')" title="Clique aqui após realizar o pagamento para liberar o acesso">
-        PIX: <strong>susucertesa@gmail.com</strong><br>
+        PIX: <strong>fale com nosco pelo dc </strong><br>
         Clique aqui após realizar o pagamento para liberar o acesso
       </div>
       <a id="produto2" class="botao" href="https://t.me/puxadasdolobinhooo/2895260" target="_blank" style="display:none;">
